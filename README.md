@@ -1,4 +1,4 @@
-# Yinghan_portfolio
+# Yinghan's portfolio
 
 ## project1: [price of used cars in Montreal](https://github.com/neimali/GRM_used_car_price)
 
