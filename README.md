@@ -1,5 +1,3 @@
-remote_theme: pages-themes/cayman@v0.2.0
-
 # Yinghan_portfolio
 
 ## project1: [price of used cars in Montreal](https://github.com/neimali/GRM_used_car_price)
@@ -9,6 +7,8 @@ remote_theme: pages-themes/cayman@v0.2.0
 + Performed EDA and Engineered attributes of used cars into features that can be fed to models
 + Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model
 + Built a client facing API with flask
+
+
 
 ## Project2: [League of Legends winning rate: Project Overview](https://github.com/neimali/league-of-legends-winning-rate)
 + Utilize machine learning techniques to help League of Legends coaches and players develop strategies
